@@ -12,11 +12,6 @@ body {
   flex-flow: row nowrap;
 }
 
-.column {
-  width: 50%;
-  margin: auto;
-  padding: 80px;
-}
 
 
 .btn-login {
